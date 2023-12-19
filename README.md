@@ -2,6 +2,8 @@
 
 Welcome to my portfolio, a simple and elegant showcase of my work and skills. This portfolio is created using only HTML, CSS, and JavaScript, highlighting my abilities in web development and design. Feel free to explore my projects, learn more about me, and get in touch for potential collaborations.
 
+Live demo : [live demo](https://shadowofleaf96.github.io/)
+
 ## Table of Contents
 
 - [Features](#features)
