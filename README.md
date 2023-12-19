@@ -8,7 +8,6 @@ Welcome to my portfolio, a simple and elegant showcase of my work and skills. Th
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
